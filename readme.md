@@ -161,3 +161,4 @@
 ## KELLY
 
 - [ ] tarot & taro
+- [ ] let me make you buy shit
